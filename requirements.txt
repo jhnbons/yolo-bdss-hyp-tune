@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch
+torchvision
+torchaudio
+
+#Others
+ultralytics
+roboflow
+comet_ml
+wandb
+ipykernel
+ipywidgets
+python-dotenv
